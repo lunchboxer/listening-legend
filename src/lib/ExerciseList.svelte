@@ -8,7 +8,7 @@
     <h3>{level} level texts</h3>
     <ol>
       {#each texts[level] as text}
-        <li><a href="/{theme}/{level}/{text.fileIndex}">{text.title}</a></li>
+        <li><a href="/{theme}/{level}/{text.index}">{text.title}</a></li>
       {/each}
     </ol>
   {/each}

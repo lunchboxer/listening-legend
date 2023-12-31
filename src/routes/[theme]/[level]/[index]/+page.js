@@ -1,10 +1,16 @@
 import texts from '$lib/texts-index.json'
 
 /** @type {import('./$types').PageLoad} */
-export function load({ params }) {
+export async function load({ params, fetch }) {
+  const { theme, level, index } = params
+  const textInfo = texts[theme][level].find((text) => text.index === index)
+  const response = await fetch(`/texts/${textInfo.file}`)
+  const text = await response.text()
   return {
-    theme: params.theme,
-    level: params.level,
-    index: params.index,
+    text,
+    textInfo,
+    theme,
+    level,
+    index,
   }
 }

@@ -15,7 +15,7 @@
   <ul>
     {#each texts[level] as text}
       <li>
-        <a href="/{theme}/{level}/{text.fileIndex}">{text.title}</a>
+        <a href="/{theme}/{level}/{text.index}">{text.title}</a>
       </li>
     {/each}
   </ul>

@@ -27,9 +27,9 @@ One day, in 1955, Rosa Parks was riding a bus home from work. She sat in a seat 
    c. She read a book
    d. She refused to move
 
-4. Fill in the blank: Rosa Parks was arrested for ****\_\_**** the law.
+4. Rosa Parks was arrested for ________ the law.
 
-5. Fill in the blank: Many black people stopped ****\_\_**** the buses until the law was changed.
+5. Many black people stopped _______ the buses until the law was changed.
 
 6. What is the name of the movement that fought for the equality of black people?
 

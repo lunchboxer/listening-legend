@@ -21,8 +21,8 @@ try {
         const heading = text.split('\n')[0]
         const title = heading.slice(2)
         // get the 4th and 5th character of filename
-        const fileIndex = file.slice(3, 5)
-        texts[theme][level].push({ title, filename: file, fileIndex })
+        const index = file.slice(3, 5)
+        texts[theme][level].push({ title, file, index })
       }
     }
   }

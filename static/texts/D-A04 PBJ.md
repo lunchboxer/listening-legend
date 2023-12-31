@@ -27,11 +27,11 @@ To make a peanut butter and jelly sandwich, you should follow these steps: First
    c. With the peanut butter side facing up and the jelly side facing down
    d. With the peanut butter side facing down and the jelly side facing up
 
-4. Fill in the blank: To make a peanut butter and jelly sandwich, you should spread **\_\_\_** on one slice of bread with a knife.
+4. To make a peanut butter and jelly sandwich, you should spread _______ on one slice of bread with a knife.
 
-5. Fill in the blank: To make a peanut butter and jelly sandwich, you should spread **\_\_\_** on another slice of bread with the same knife.
+5. To make a peanut butter and jelly sandwich, you should spread _______ on another slice of bread with the same knife.
 
-6. Fill in the blank: To make a peanut butter and jelly sandwich, you should cut the sandwich in half, either **\_\_\_** or straight.
+6. To make a peanut butter and jelly sandwich, you should cut the sandwich in half, either _______ or straight.
 
 ## Answer Key
 
