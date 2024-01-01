@@ -1,5 +1,6 @@
 <script>
   import { marked } from 'marked'
+  import { slide } from 'svelte/transition'
   import AudioPlayer from '$lib/AudioPlayer.svelte'
   import Checkbox from '$lib/Checkbox.svelte'
 
@@ -55,37 +56,43 @@
 </div>
 
 {#if showText}
-  <h2>Text</h2>
-  {#each textBody.filter((token) => token.type !== 'space') as token}
-    <p>{token.text}</p>
-  {/each}
+  <div class="text" transition:slide={{ duration: 200 }}>
+    <h2>Text</h2>
+    {#each textBody.filter((token) => token.type !== 'space') as token}
+      <p>{token.text}</p>
+    {/each}
+  </div>
 {/if}
 
 {#if showQuestions}
-  <h2>Questions</h2>
-  <ol>
-    {#each questions.items as question}
-      <li class="question">
-        {question.tokens[0].text}
-        {#if question.tokens?.filter((token) => token.type !== 'space').length > 1}
-          <ul class="choices">
-            {#each getChoices(question.tokens.filter((token) => token.type !== 'space')[1]) as choice}
-              <li class="choices">{choice}</li>
-            {/each}
-          </ul>
-        {/if}
-      </li>
-    {/each}
-  </ol>
+  <div class="questions" transition:slide={{ duration: 200 }}>
+    <h2>Questions</h2>
+    <ol>
+      {#each questions.items as question}
+        <li class="question">
+          {question.tokens[0].text}
+          {#if question.tokens?.filter((token) => token.type !== 'space').length > 1}
+            <ul class="choices">
+              {#each getChoices(question.tokens.filter((token) => token.type !== 'space')[1]) as choice}
+                <li class="choices">{choice}</li>
+              {/each}
+            </ul>
+          {/if}
+        </li>
+      {/each}
+    </ol>
+  </div>
 {/if}
 
 {#if showAnswers}
-  <h2>Answer Key</h2>
-  <ol>
-    {#each answers.items as answer}
-      <li>{answer.text}</li>
-    {/each}
-  </ol>
+  <div class="answers" transition:slide={{ duration: 200 }}>
+    <h2>Answer Key</h2>
+    <ol>
+      {#each answers.items as answer}
+        <li>{answer.text}</li>
+      {/each}
+    </ol>
+  </div>
 {/if}
 
 <style>
