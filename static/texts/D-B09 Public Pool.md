@@ -15,21 +15,21 @@ After going down the slide a few times, I swim over to the shallow end. Here, I 
 
 2. Where is the child's favorite place at the pool?
 
-a. Water slide
-b. High dive
-c. Lap pool
-d. Wading pool
+   a. Water slide
+   b. High dive
+   c. Lap pool
+   d. Wading pool
 
 3. What does the child practice in the shallow end?
 
-a. Diving
-b. Floating
-c. Splashing
-d. Underwater swimming
+   a. Diving
+   b. Floating
+   c. Splashing
+   d. Underwater swimming
 
-4. The child learns to hold his ********\_\_\_\_******** and dive under.
+4. The child learns to hold his _______ and dive under.
 
-5. At the end, the child plays with ******\_\_\_****** and splashes his brother.
+5. At the end, the child plays with _______ and splashes his brother.
 
 6. Why does the child have fun at the pool?
 

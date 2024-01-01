@@ -27,11 +27,11 @@ Now I can ride all around our neighborhood. I have to be very careful to watch f
    c. In the neighborhood
    d. At school
 
-4. Sometimes the child rides their bike ******\_\_\_******.
+4. Sometimes the child rides their bike _______.
 
-5. The child needs to be careful and watch for ******\_\_\_****** when riding.
+5. The child needs to be careful and watch for _______ when riding.
 
-6. How does riding a bike make the child feel? **********\_\_\_**********
+6. How does riding a bike make the child feel?
 
 ## Answer Key
 

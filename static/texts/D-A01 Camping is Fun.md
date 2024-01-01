@@ -32,14 +32,14 @@ Camping is a fun way to spend time outside. When going camping, it’s important
    c. It lets you eat lots of food
    d. You get to buy new gear
 
-5. The text states that when going camping you should bring ****\_****.
+5. The text states that when going camping you should bring _______.
 
    a. Extra food for animals  
    b. A refrigerator
    c. Enough food and water for your trip length  
    d. Only canned goods
 
-6. The text recommends bringing rain gear in case **\_\_\_\_**.
+6. The text recommends bringing rain gear in case _______.
 
    a. You want to cool off
    b. You get wet playing games

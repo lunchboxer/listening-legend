@@ -29,9 +29,10 @@ Service dogs go everywhere with their owner - on trips, shopping, even school! T
    c. By sitting
    d. By barking
 
-4. Service dogs are matched with a person in ****\_****.
+4. Service dogs are matched with a person in _______.
 
-5. Service dogs **\_\_\_** their owner.
+5. Service dogs _______ their owner.
+
 6. How do service dogs help their owners?
 
 ## Answer Key

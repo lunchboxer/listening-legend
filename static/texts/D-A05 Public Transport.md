@@ -27,9 +27,9 @@ Public transport has many benefits for people and the environment. It can help p
    c. It can help create more green spaces, parks, and gardens
    d. It can help prevent natural disasters, climate change, and extinction
 
-4. Public transport is usually **\_\_\_\_**, faster, and safer than driving a car.
+4. Public transport is usually _______, faster, and safer than driving a car.
 
-5. Public transport can help people stay healthy and active, as they can **\_\_** or bike to the public transport stops.
+5. Public transport can help people stay healthy and active, as they can _______ or bike to the public transport stops.
 
 6. How does public transport help protect the environment?
 

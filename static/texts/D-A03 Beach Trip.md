@@ -29,9 +29,9 @@ Lily and Jake had a wonderful day at the beach. They enjoyed the warm sun, the c
    c. A scissors and a glue
    d. A brush and a paint
 
-4. Lily and Jake flew their **\_\_** in the sky, and watched it soar and dance in the wind.
+4. Lily and Jake flew their _______ in the sky, and watched it soar and dance in the wind.
 
-5. Lily and Jake enjoyed the warm \_\_\_\_, the cool water, and the soft sand.
+5. Lily and Jake enjoyed the warm _______, the cool water, and the soft sand.
 
 6. What did Lily and Jake take home from the beach?
 

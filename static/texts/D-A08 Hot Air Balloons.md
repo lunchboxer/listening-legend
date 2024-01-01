@@ -27,8 +27,9 @@ To make the balloon come back down, the pilot stops heating the air. As the ball
    c. After taking off
    d. Before landing
 
-4. Hot air balloons float back down as the air **\_\_\_\_**.
-5. Many hot air balloon rides happen at **\_\_** and **\_\_**.
+4. Hot air balloons float back down as the air _______.
+
+5. Many hot air balloon rides happen at _______ and ______.
 
 6. Why must a pilot check weather conditions before a flight?
 

@@ -20,16 +20,16 @@ During the day firefighters give talks about fire safety at schools and inspect 
    c. So firefighters can quickly find what they need
    d. To have space for exercise
 
-3. Firefighters give **\_\_\_** at local schools.
+3. Firefighters give _______ at local schools.
 
    a. homework  
    b. tests
    c. art projects
    d. talks about fire safety
 
-4. When an alarm sounds, firefighters **\_\_\_** and **\_\_\_** to the fire trucks.
+4. When an alarm sounds, firefighters ______ and _______ to the fire trucks.
 
-5. A firefighter's job is to ****\_****.
+5. A firefighter's job is to _______.
 
 6. Explain why firefighters have to keep their bunker gear ready at all times.
 

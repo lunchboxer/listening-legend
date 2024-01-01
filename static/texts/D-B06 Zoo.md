@@ -29,11 +29,11 @@ After the lions, we go see my favorite animals - the elephants! They use their t
    c. Play
    d. Hide
 
-4. The ********\_******** cub's fur is fluffy.
+4. The _______ cub's fur is fluffy.
 
-5. The elephants use their ********\_******** to pick up food.
+5. The elephants use their _______ to pick up food.
 
-6. Why does the little elephant spray water on its back? **************\_\_\_\_**************
+6. Why does the little elephant spray water on its back?
 
 ## Answer Key
 

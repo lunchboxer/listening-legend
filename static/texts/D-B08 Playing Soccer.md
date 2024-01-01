@@ -27,9 +27,9 @@ Now we have games every weekend. All the players on both teams wear jerseys and 
    c. After school
    d. At night
 
-4. The child's favorite position is ******\_\_\_****** .
+4. The child's favorite position is _______.
 
-5. The players shake ******\_\_\_****** after each game.
+5. The players shake _______ after each game.
 
 6. Why does the child think soccer is fun?
 

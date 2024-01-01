@@ -25,9 +25,9 @@ In the spring, it's fun to grow a vegetable garden. First, I dig up the dirt and
    c. Flowers  
    d. Roots
 
-4. The flowers **\_\_** off and tiny tomatoes **\_\_**.
+4. The flowers _______ off and tiny tomatoes _______.
 
-5. Taking care of a garden is **\_\_** **\_\_\_\_**, but it's worth it!
+5. Taking care of a garden is _______ _______, but it's worth it!
 
 6. Why does the child like growing a vegetable garden?
 

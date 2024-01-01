@@ -27,8 +27,10 @@ Now the fun part - start building! Use wood to construct the floor in sections u
    c. Adults
    d. No one
 
-4. You'll need a **\_** for climbing up and down.
-5. Treehouses are great because they become **\_\_\_\_**.
+4. You'll need a _______ for climbing up and down.
+
+5. Treehouses are great because they become _______.
+
 6. Why does building a treehouse take a lot of time and work?
 
 ## Answer Key

@@ -25,9 +25,9 @@ I love sailing my little boat across the lake on a sunny day! First I put on my 
    c. Waves
    d. Motor
 
-4. I hold the **\_\_** tight and **\_\_** the boat.
+4. I hold the _______ tight and _______ the boat.
 
-5. If the wind gets too strong, I **\_\_** the sail a bit.
+5. If the wind gets too strong, I _______ the sail a bit.
 
 6. Why does the child think sailing is fun?
 

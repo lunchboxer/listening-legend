@@ -27,9 +27,9 @@ When you brush your teeth, you should follow these steps: First, wet your toothb
    c. Cavities are holes in your teeth that are caused by bacteria and sugar
    d. Cavities are gaps between your teeth that are caused by losing baby teeth
 
-4. Fill in the blank: When you brush your teeth, you should hold your toothbrush at a ****\_\_**** angle to your gums.
+4. When you brush your teeth, you should hold your toothbrush at a _______ angle to your gums.
 
-5. When you brush your teeth, you should also brush your **\_\_\_** to remove bacteria and freshen your breath.
+5. When you brush your teeth, you should also brush your _______ to remove bacteria and freshen your breath.
 
 6. How often should your replace your toothbrush?
 

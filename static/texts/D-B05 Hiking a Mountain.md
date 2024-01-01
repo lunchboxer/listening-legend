@@ -25,9 +25,9 @@ Hiking up a mountain is tiring but rewarding! First, I put on my hiking boots to
    c. The same
    d. Windy
 
-4. I feel **\_\_** looking out at the scenic landscape.
+4. I feel _______ looking out at the scenic landscape.
 
-5. I can't **\_\_** to climb another mountain.
+5. I can't _______ to climb another mountain.
 
 6. Why does the child think hiking the mountain is rewarding?
 

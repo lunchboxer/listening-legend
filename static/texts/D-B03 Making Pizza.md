@@ -25,9 +25,9 @@ Making a pizza with my family is so much fun! First, we roll out the dough into 
    c. After baking
    d. While cooling
 
-4. I put on my favorite toppings like **\_\_**, **\_\_**, and **\_\_**.
+4. I put on my favorite toppings like _______, _______, and _______.
 
-5. We **\_\_** the pizza until the cheese is bubbly.
+5. We _______ the pizza until the cheese is bubbly.
 
 6. Why does the child enjoy making pizza with their family?
 
