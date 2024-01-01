@@ -1,6 +1,7 @@
 <script>
   import { marked } from 'marked'
   import AudioPlayer from '$lib/AudioPlayer.svelte'
+  import Checkbox from '$lib/Checkbox.svelte'
 
   export let data
   const { theme, level, index, textInfo, audioInfo, text } = data
@@ -48,15 +49,9 @@
 {/if}
 
 <div class="button-group">
-  <button class:button-outline={!showText} on:click={() => (showText = !showText)}>
-    {#if showText}Hide{:else}Show{/if} text
-  </button>
-  <button class:button-outline={!showQuestions} on:click={() => (showQuestions = !showQuestions)}>
-    {#if showQuestions}Hide{:else}Show{/if} questions
-  </button>
-  <button class:button-outline={!showAnswers} on:click={() => (showAnswers = !showAnswers)}>
-    {#if showAnswers}Hide{:else}Show{/if} answers
-  </button>
+  <Checkbox label="text" bind:checked={showText} />
+  <Checkbox label="questions" bind:checked={showQuestions} />
+  <Checkbox label="answers" bind:checked={showAnswers} />
 </div>
 
 {#if showText}
@@ -98,6 +93,7 @@
     margin: 2rem 0;
   }
   .button-group {
+    display: flex;
     padding: 1rem 0;
   }
   li.question {

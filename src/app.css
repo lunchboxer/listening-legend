@@ -428,6 +428,7 @@ option {
 button svg {
   margin-right: 1rem;
 }
+
 @media print {
   body {
     font-size: 12pt;
