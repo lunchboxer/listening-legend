@@ -2,6 +2,9 @@
   import Fa from 'svelte-fa'
   import { faPlay, faPause } from '@fortawesome/free-solid-svg-icons'
   export let audioInfo
+  export let theme
+  export let level
+  export let index
   let audioPlayer
   let paused = true
   let duration
@@ -9,6 +12,11 @@
   let progress = 0
 
   $: progress = duration ? time / duration : 0
+
+  const audioBeginning = `/preamble/LC-${theme}.mp3`
+  const audioLevel = `/preamble/level-${level}.mp3`
+  const audioPassage = `/preamble/passage-${index}.mp3`
+  const audioExercise = `/audio/${audioInfo.file}`
 
   const pad = (number) => (number < 10 ? '0' + number : number)
 
@@ -23,6 +31,11 @@
     const p = event.target.value
     time = (p / 1000) * duration
   }
+
+  function playAudio() {
+    if (paused) audioPlayer.play()
+    else audioPlayer.pause()
+  }
 </script>
 
 <label class="voice" for="audio{audioInfo.voice}">{audioInfo.voice}</label>
@@ -35,12 +48,9 @@
     bind:currentTime={time}
     bind:duration
   >
-    <source src="/audio/{audioInfo.file}" type="audio/mpeg" />
+    <source src={audioExercise} type="audio/mpeg" />
   </audio>
-  <button
-    class="button-clear"
-    on:click={() => (audioPlayer.paused ? audioPlayer.play() : audioPlayer.pause())}
-  >
+  <button class="button-clear" on:click={playAudio}>
     <Fa icon={paused ? faPlay : faPause} />
   </button>
   <span class="time elapsed">

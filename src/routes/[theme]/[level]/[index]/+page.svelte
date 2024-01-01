@@ -1,6 +1,7 @@
 <script>
   import { marked } from 'marked'
   import { slide } from 'svelte/transition'
+  import { quintInOut } from 'svelte/easing'
   import AudioPlayer from '$lib/AudioPlayer.svelte'
   import Checkbox from '$lib/Checkbox.svelte'
 
@@ -44,7 +45,7 @@
   <div class="audio">
     <h2>Audio</h2>
     {#each audioInfo as audio}
-      <AudioPlayer audioInfo={audio} />
+      <AudioPlayer audioInfo={audio} {index} {theme} {level} />
     {/each}
   </div>
 {/if}
@@ -56,7 +57,7 @@
 </div>
 
 {#if showText}
-  <div class="text" transition:slide={{ duration: 200 }}>
+  <div class="text" transition:slide={{ duration: 200, easing: quintInOut }}>
     <h2>Text</h2>
     {#each textBody.filter((token) => token.type !== 'space') as token}
       <p>{token.text}</p>
@@ -65,7 +66,7 @@
 {/if}
 
 {#if showQuestions}
-  <div class="questions" transition:slide={{ duration: 200 }}>
+  <div class="questions" transition:slide={{ duration: 200, easing: quintInOut }}>
     <h2>Questions</h2>
     <ol>
       {#each questions.items as question}
@@ -85,7 +86,7 @@
 {/if}
 
 {#if showAnswers}
-  <div class="answers" transition:slide={{ duration: 200 }}>
+  <div class="answers" transition:slide={{ duration: 200, easing: quintInOut }}>
     <h2>Answer Key</h2>
     <ol>
       {#each answers.items as answer}
