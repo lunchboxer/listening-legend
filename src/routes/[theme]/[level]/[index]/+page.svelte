@@ -45,7 +45,7 @@
   <div class="audio">
     <h2>Audio</h2>
     {#each audioInfo as audio}
-      <AudioPlayer audioInfo={audio} {index} {theme} {level} />
+      <AudioPlayer audioInfo={audio} />
     {/each}
   </div>
 {/if}

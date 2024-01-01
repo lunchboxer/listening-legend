@@ -1,10 +1,8 @@
 <script>
+  import { onMount } from 'svelte'
   import Fa from 'svelte-fa'
   import { faPlay, faPause } from '@fortawesome/free-solid-svg-icons'
   export let audioInfo
-  export let theme
-  export let level
-  export let index
   let audioPlayer
   let paused = true
   let duration
@@ -13,9 +11,6 @@
 
   $: progress = duration ? time / duration : 0
 
-  const audioBeginning = `/preamble/LC-${theme}.mp3`
-  const audioLevel = `/preamble/level-${level}.mp3`
-  const audioPassage = `/preamble/passage-${index}.mp3`
   const audioExercise = `/audio/${audioInfo.file}`
 
   const pad = (number) => (number < 10 ? '0' + number : number)
