@@ -31,9 +31,9 @@ The Wild West came alive through stories, movies, and TV shows. Names like Sheri
    c. Outlaws
    d. All of the above
 
-4. Ranchers raised **\_\_\_** on the open plains.
+4. Ranchers raised _______ on the open plains.
 
-5. Native Americans like **\_\_\_** **\_\_\_** fought to protect their lands.
+5. Native Americans like _______ _______ fought to protect their lands.
 
 6. How do we remember the Wild West today?
 

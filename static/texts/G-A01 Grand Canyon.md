@@ -27,9 +27,9 @@ The Grand Canyon has been inhabited by Native American tribes for thousands of y
    c. It has ancient burial grounds
    d. There are many place to visit
 
-4. The Grand Canyon is up to **\_\_\_** miles wide in some parts.
+4. The Grand Canyon is up to _______ miles wide in some parts.
 
-5. The Grand Canyon has been inhabited by Native American tribes for **\_\_** years.
+5. The Grand Canyon has been inhabited by Native American tribes for _______ years.
 
 6. Name two Native American tribes that have cultural ties to the Grand Canyon.
 

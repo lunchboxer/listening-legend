@@ -29,9 +29,9 @@ Here are 6 listening comprehension questions for 4th graders based on the bubble
    c. Lots of bubbles sticking together
    d. Windy weather conditions
 
-4. Bubbles come in shapes like small spheres, long ****\_\_**** bubbles, and giant ****\_\_\_**** walls.
+4. Bubbles come in shapes like small spheres, long _______ bubbles, and giant _______ walls.
 
-5. The ****\_\_\_\_**** bubble tricks happen on sunny, windless days when bubbles last for minutes.
+5. The _______ bubble tricks happen on sunny, windless days when bubbles last for minutes.
 
 6. Name one example of a cool bubble shape mentioned in the passage.
 

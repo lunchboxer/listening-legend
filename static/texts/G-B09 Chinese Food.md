@@ -27,9 +27,9 @@ Chinese food uses cooking techniques like stir frying, steaming, braising and ro
    c. To mix flavors
    d. To use less food
 
-4. Chinese cooking uses techniques like **\_\_\_**, **\_\_\_** and **\_\_\_**.
+4. Chinese cooking uses techniques like _______, _______ and _______.
 
-5. Garlic, ginger and **\_\_\_** are used to add flavor.
+5. Garlic, ginger and _______ are used to add flavor.
 
 6. To make yummy balance meals, what is done to flavours and textures?
 

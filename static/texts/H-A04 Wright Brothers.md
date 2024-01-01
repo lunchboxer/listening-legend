@@ -29,7 +29,7 @@ The Wright Brothers made their first successful flight on December 17, 1903, at 
 
 4. Fill in the blank: The Wright Brothers made their first successful flight on December 17, \_\_\_\_, at Kitty Hawk, North Carolina.
 
-5. Fill in the blank: The Wright Brothers used a wooden **\_\_\_** with a gasoline engine and a propeller.
+5. Fill in the blank: The Wright Brothers used a wooden _______ with a gasoline engine and a propeller.
 
 6. How long and how far was the longest flight that the Wright Brothers made on their first day of flying?
 

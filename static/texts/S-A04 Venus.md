@@ -27,9 +27,9 @@ Venus is the hottest planet in our solar system. It has a thick atmosphere made 
    c. Sideways
    d. Upwards
 
-4. The temperature on Venus can reach up to **\_\_** degrees Fahrenheit.
+4. The temperature on Venus can reach up to _______ degrees Fahrenheit.
 
-5. Venus has clouds of **\_\_** acid, which can burn your skin.
+5. Venus has clouds of _______ acid, which can burn your skin.
 
 6. Why is Venus sometimes called Earth's sister?
 

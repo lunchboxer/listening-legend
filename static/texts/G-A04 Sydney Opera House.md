@@ -27,9 +27,9 @@ The Sydney Opera House hosts over 1,500 performances each year attended by over 
    c. 1 million
    d. 1.5 million
 
-4. The Sydney Opera House was designed by architect **\_\_\_\_**.
+4. The Sydney Opera House was designed by architect _______.
 
-5. The Opera House has become an iconic symbol of **\_\_\_** and even **\_\_\_\_**.
+5. The Opera House has become an iconic symbol of _______ and even _______.
 
 6. Why is the Sydney Opera House famous? Name two reasons.
 

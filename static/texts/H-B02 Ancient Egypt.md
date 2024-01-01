@@ -27,9 +27,9 @@ The ancient Egyptians built enormous pyramids, grand temples, and gigantic statu
    c. Tutankhamun
    d. Nefertiti
 
-4. The ancient Egyptians developed a writing system called **\_\_\_\_**.
+4. The ancient Egyptians developed a writing system called _______.
 
-5. Ancient Egypt was one of the greatest **\_\_\_** in the world.
+5. Ancient Egypt was one of the greatest _______ in the world.
 
 6. Why was ancient Egypt an important civilization? Name two things.
 

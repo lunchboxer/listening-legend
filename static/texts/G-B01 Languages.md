@@ -27,9 +27,9 @@ There are more than 7,000 languages in the world, but not all of them are spoken
    c. Hindi
    d. Basque
 
-4. In Arabic, people write from **\_\_** to left.
+4. In Arabic, people write from _______ to left.
 
-5. In Spanish, people say "**\_**" to greet each other.
+5. In Spanish, people say "_______" to greet each other.
 
 6. Why is it important to learn about different languages and cultures?
 

@@ -27,9 +27,9 @@ Some of the Native American tribes that you may have heard of are the Cherokee, 
    c. Sioux
    d. Inuit
 
-4. Fill in the blank: The Native Americans had different **\_\_**, stories, and ceremonies.
+4. Fill in the blank: The Native Americans had different _______, stories, and ceremonies.
 
-5. Fill in the blank: The Native Americans respected the **\_\_** and the animals.
+5. Fill in the blank: The Native Americans respected the _______ and the animals.
 
 6. What is the name of the spirit that the Native Americans thanked for their blessings?
 

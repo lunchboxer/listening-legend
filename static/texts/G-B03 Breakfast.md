@@ -27,9 +27,9 @@ In England, some kids eat a large breakfast with bread, tea, egg, bacon, ham, fr
    c. Rice, teriyaki spam, and scrambled eggs
    d. Bread, tea, egg, bacon, ham, fruits, and baked beans on toast
 
-4. In France, some kids eat a very **\_\_** breakfast.
+4. In France, some kids eat a very _______ breakfast.
 
-5. In the Netherlands, some kids eat a sandwich with **\_\_** sprinkles on weekends.
+5. In the Netherlands, some kids eat a sandwich with _______ sprinkles on weekends.
 
 6. What do you like to eat for breakfast?
 

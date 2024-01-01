@@ -27,9 +27,9 @@ Many animals live in the Amazon rainforest. There are monkeys, parrots, frogs, a
    c. Monkeys
    d. Seals
 
-4. The Amazon rainforest is home to many **\_\_\_** and **\_\_\_**.
+4. The Amazon rainforest is home to many _______ and _______.
 
-5. Animals like **\_\_\_** and **\_\_\_** live in the rainforest.
+5. Animals like _______ and _______ live in the rainforest.
 
 6. In your own words, describe why animals and plants in the rainforest rely on each other.
 

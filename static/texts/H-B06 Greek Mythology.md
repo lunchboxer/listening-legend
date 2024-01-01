@@ -29,8 +29,8 @@ The Greeks told myths to explain things in nature, like lightning being Zeus's l
    c. Nature
    d. Math
 
-4. Zeus's ****\_**** was a lightning bolt.
-5. Myths featured heroes like ****\_****, who had great strength.
+4. Zeus's _______ was a lightning bolt.
+5. Myths featured heroes like _______, who had great strength.
 
 6. How do Greek myths still influence us today?
 

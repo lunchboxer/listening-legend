@@ -27,9 +27,9 @@ The Great Wall is not just one long wall. It is actually many walls that were bu
    c. 1,700 years
    d. 2,000 years
 
-4. The Great Wall contains ****\_\_\_**** along its length.
+4. The Great Wall contains _______ along its length.
 
-5. The Great Wall remains an important symbol of Chinese ****\_**** and ****\_****.
+5. The Great Wall remains an important symbol of Chinese _______ and _______.
 
 6. Why is the Great Wall such an impressive achievement? Name two reasons.
 

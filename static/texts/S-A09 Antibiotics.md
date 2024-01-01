@@ -29,9 +29,9 @@ To avoid resistance, you should always finish your full antibiotic prescription.
    c. From vaccines
    d. From handwashing
 
-4. You should always ****\_**** your full antibiotic prescription.
+4. You should always _______ your full antibiotic prescription.
 
-5. Wise use of antibiotics helps ensure they keep ****\_\_****.
+5. Wise use of antibiotics helps ensure they keep _______.
 
 6. Name one way to help prevent infections.
 

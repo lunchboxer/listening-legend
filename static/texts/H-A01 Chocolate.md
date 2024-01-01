@@ -13,7 +13,7 @@ Over the next few hundred years, chocolate spread to Europe. Sugar was added to 
    c. Ancient Egyptians
    d. European explorers
 
-2. Early chocolate drinks were made from ********\_********.
+2. Early chocolate drinks were made from _______.
 
    a. sugarcane
    b. milk  
@@ -27,8 +27,9 @@ Over the next few hundred years, chocolate spread to Europe. Sugar was added to 
    c. Mixing with nuts
    d. Developing techniques to make solid chocolate
 
-4. Ancient Mesoamerican cultures used chocolate in **********\_\_**********.
-5. Over the centuries, chocolate ********\_\_******** around the world.
+4. Ancient Mesoamerican cultures used chocolate in _______.
+
+5. Over the centuries, chocolate _______ around the world.
 
 6. Why was chocolate important to ancient Maya and Aztec culture? Explain one or two reasons.
 

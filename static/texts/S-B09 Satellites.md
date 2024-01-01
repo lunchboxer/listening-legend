@@ -29,9 +29,9 @@ Without satellites, we wouldn't have satellite TV, accurate maps and navigation,
    c. Clouds
    d. Space
 
-4. GPS satellites help provide ****\_\_\_**** ****\_\_\_****.
+4. GPS satellites help provide _______ _______.
 
-5. Satellites give us technology like ****\_\_\_**** ****\_\_\_**** and ****\_\_\_**** ****\_\_\_****.
+5. Satellites give us technology like _______ _______ and _______ _______.
 
 6. Name one type of satellite mentioned.
 

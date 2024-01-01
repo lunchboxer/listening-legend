@@ -27,9 +27,9 @@ Ghana has a lot of nature and animals. There are big forests with many trees and
    c. Lake Volta
    d. Lake Malawi
 
-4. Fill in the blank: Ghana is a country in **\_\_\_**.
+4. Fill in the blank: Ghana is a country in _______.
 
-5. Fill in the blank: Cocoa is a plant that people use to make **\_\_\_**.
+5. Fill in the blank: Cocoa is a plant that people use to make _______.
 
 6. What is a dam?
 

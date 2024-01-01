@@ -27,9 +27,9 @@ Traditional dress comes in many bright colors and designs. The patterns and colo
    c. It uses many colors.
    d. It is comfortable.
 
-4. The patterns and colors of traditional dress have **\_\_\_** **\_\_\_**.
+4. The patterns and colors of traditional dress have _______ _______.
 
-5. Many people wear traditional dress for **\_\_\_** and **\_\_\_**.
+5. Many people wear traditional dress for _______ and _______.
 
 6. In a sentence, explain why it is important to keep traditions like traditional dress alive.
 

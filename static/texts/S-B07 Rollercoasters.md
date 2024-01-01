@@ -27,9 +27,9 @@ Rollercoasters use gravity and speed to work. They slowly climb up the first hil
    c. Gravity
    d. Electricity
 
-4. Rollercoasters have big ****\_\_****, ****\_\_****, and ****\_\_**** that make the ride thrilling.
+4. Rollercoasters have big _______, _______, and _______ that make the ride thrilling.
 
-5. Gravity and ****\_\_\_**** keep the cars moving around the track.
+5. Gravity and _______ keep the cars moving around the track.
 
 6. Name one part of a rollercoaster track mentioned in the passage.
 

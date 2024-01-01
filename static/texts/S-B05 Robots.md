@@ -27,9 +27,9 @@ Robots need a power source like a battery to run. People tell robots what to do 
    c. Their grippers
    d. Their parts
 
-4. Robots need ****\_\_\_**** and ****\_\_\_\_**** to function.
+4. Robots need _______ and _______ to function.
 
-5. Robots are programmed by ****\_\_\_**** to do work.
+5. Robots are programmed by _______ to do work.
 
 6. Name one example where robots are used.
 

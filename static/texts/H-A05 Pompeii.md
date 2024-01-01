@@ -27,9 +27,9 @@ The city of Pompeii was forgotten for many years, until it was discovered by arc
    c. The city and its people covered by the water
    d. The city and its people hidden by the trees
 
-4. Fill in the blank: The people of Pompeii did not know that the volcano was ****\_****.
+4. Fill in the blank: The people of Pompeii did not know that the volcano was _______.
 
-5. Fill in the blank: The archaeologists could make **\_\_\_** of the people's bodies by filling the hollow spaces in the ash with plaster.
+5. Fill in the blank: The archaeologists could make _______ of the people's bodies by filling the hollow spaces in the ash with plaster.
 
 6. What is the name of the time capsule that shows us how the ancient Romans lived?
 

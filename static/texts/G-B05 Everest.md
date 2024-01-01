@@ -27,9 +27,9 @@ Climbing Mt. Everest is hard work. The air is thin at the top. The weather can g
    c. Ropes and shoes
    d. Cameras and hats
 
-4. Mt. Everest is the **\_\_\_** mountain in the world.
+4. Mt. Everest is the _______ mountain in the world.
 
-5. Many people **\_\_\_** Mt. Everest each year.
+5. Many people _______ Mt. Everest each year.
 
 6. In your own words, describe why it is hard to climb Mt. Everest.
 

@@ -27,9 +27,9 @@ Nuclear power plants provide lots of energy for cities and factories. But they m
    c. To look nice
    d. To keep out rain
 
-4. Nuclear energy comes from ****\_\_\_**** ****\_\_\_**** inside power plants.
+4. Nuclear energy comes from _______ _______ inside power plants.
 
-5. The plants must have ****\_\_\_**** and safety ****\_\_\_**** to protect people.
+5. The plants must have _______ and safety _______ to protect people.
 
 6. Name one way nuclear power plant electricity is used.
 

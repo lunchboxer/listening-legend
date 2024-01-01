@@ -22,16 +22,16 @@ Lewis and Clark had to pass through rugged mountains and vast plains on their 8,
    c. 1805
    d. 1806
 
-3. The expedition traveled about **\_\_\_** miles round trip.
+3. The expedition traveled about _______ miles round trip.
 
    a. 6,000
    b. 8,000  
    c. 10,000
    d. 12,000
 
-4. Lewis and Clark traveled west along the **********\_********** River.
+4. Lewis and Clark traveled west along the _______ River.
 
-5. On their journey, Lewis and Clark met some **********\_\_********** and some **********\_\_********** Native American tribes.
+5. On their journey, Lewis and Clark met some _______ and some _______ Native American tribes.
 
 6. Why was the Lewis and Clark expedition important?
    Here is the answer key for the Lewis and Clark listening comprehension exercise:

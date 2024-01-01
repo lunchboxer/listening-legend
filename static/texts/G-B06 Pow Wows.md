@@ -27,9 +27,9 @@ There are many fun activities at a pow wow. People play music and arts and craft
    c. Special outfits
    d. Feather headdresses
 
-4. Pow wows honor Native American **\_\_\_** and **\_\_\_**.
+4. Pow wows honor Native American _______ and _______.
 
-5. At pow wows there are arts and **\_\_\_** and **\_\_\_**.
+5. At pow wows there are arts and _______ and _______.
 
 6. In your own words, describe what people do for fun at pow wows.
 

@@ -27,9 +27,9 @@ For hundreds of years, Venice was its own independent country called the Republi
    c. Canals
    d. Trains
 
-4. Venice was once an independent country called the **\_\_\_** of Venice.
+4. Venice was once an independent country called the _______ of Venice.
 
-5. Venice influenced art, architecture, and **\_\_\_** around the world.
+5. Venice influenced art, architecture, and _______ around the world.
 
 6. Why is Venice well known? Name two things.
 

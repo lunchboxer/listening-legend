@@ -33,9 +33,9 @@ Though the route closed 600 years ago, it still impacts culture today, linking a
    c. Corn and tobacco
    d. Tea and porcelain
 
-4. The Silk Road started during the **\_\_\_** Dynasty.
+4. The Silk Road started during the _______ Dynasty.
 
-5. Travel was risky because of **\_\_\_** and **\_\_\_**.
+5. Travel was risky because of _______ and _______.
 
 6. How long ago did the Silk Road close?
 

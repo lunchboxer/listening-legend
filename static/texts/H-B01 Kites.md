@@ -23,9 +23,9 @@ The Chinese used kites for more than fun. Kites helped them test the wind for sa
    b) A couple hundred years ago
    c) In the past 25 years
    d) Last year
-4. The Chinese used kites to test the **\_\_\_\_** for sailing.
+4. The Chinese used kites to test the _______ for sailing.
 
-5. Over time, new kite **\_\_\_\_** were created.
+5. Over time, new kite _______ were created.
 
 6. Why were kites importatnt to people in ancient China.
 

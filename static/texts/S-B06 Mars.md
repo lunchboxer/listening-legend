@@ -27,9 +27,9 @@ Some robots called rovers explore Mars. The rovers drive around the planet and t
    c. Spaceships
    d. Telescopes
 
-4. Mars has ****\_\_\_****, ****\_\_\_****, and ****\_\_\_****, but no oceans or air.
+4. Mars has _______, _______, and _______, but no oceans or air.
 
-5. Any future astronauts visiting Mars will need ****\_\_\_**** to breathe outside.
+5. Any future astronauts visiting Mars will need _______ to breathe outside.
 
 6. Name one way the Mars rovers study the planet.
 

@@ -29,9 +29,9 @@ Using more renewables can reduce greenhouse gases that cause climate change. Man
    c. By relying more on fossil fuels
    d. By reducing greenhouse gases
 
-4. Fossil fuels are ****\_****, while renewable energy is ****\_****.
+4. Fossil fuels are _______, while renewable energy is _______.
 
-5. People can install ****\_**** ****\_**** to support renewables.
+5. People can install _______ _______ to support renewables.
 
 6. Name a type of renewable energy.
 

@@ -27,9 +27,9 @@ In Thailand, there is a festival called Songkran. This festival celebrates the t
    c. The traditional New Year
    d. A famous battle
 
-4. At Songkran, people use **\_\_\_**, **\_\_\_** and **\_\_\_** to splash water on each other.
+4. At Songkran, people use _______, _______ and _______ to splash water on each other.
 
-5. The Songkran water fight symbolizes **\_\_\_** **\_\_\_** **\_\_\_** from the old year.
+5. The Songkran water fight symbolizes _______ _______ _______ from the old year.
 
 6. In a sentence, explain one reason why traditional festivals like these are fun.
 

@@ -27,9 +27,9 @@ Fossils are usually found in rocks that were once underwater. When a plant or an
    c. Fossil
    d. Rock
 
-4. Fossils are usually found in rocks that were once **\_\_**.
+4. Fossils are usually found in rocks that were once _______.
 
-5. Sometimes, new minerals filled the hole and made a copy of the plant or animal part. This is called a **\_\_**.
+5. Sometimes, new minerals filled the hole and made a copy of the plant or animal part. This is called a _______.
 
 6. How do fossils help scientists?
 

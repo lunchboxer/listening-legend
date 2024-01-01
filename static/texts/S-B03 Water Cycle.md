@@ -27,9 +27,9 @@ The sun heats up the liquid water and turns it into gas water. This is called ev
    c. Precipitation
    d. Transpiration
 
-4. When the clouds get too heavy, they drop liquid water or solid water as **\_\_**, snow, or hail.
+4. When the clouds get too heavy, they drop liquid water or solid water as _______, snow, or hail.
 
-5. The water then flows back into the oceans, lakes, and rivers, and the cycle **\_\_** again.
+5. The water then flows back into the oceans, lakes, and rivers, and the cycle _______ again.
 
 6. Why does the sun heat up the liquid water?
 

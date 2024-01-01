@@ -27,9 +27,9 @@ In 1845, Alexander Cartwright published a set of rules that modern baseball is b
    c. Alexander Cartwright
    d. Lou Gehrig
 
-4. Cartwright said each team should have **\_\_** players.
+4. Cartwright said each team should have _______ players.
 
-5. Each game would have **\_\_** innings.
+5. Each game would have _______ innings.
 
 6. Why is Alexander Cartwright an important figure in baseball history? Name two things he did.
 

@@ -27,9 +27,9 @@ Snow can be fun to play with. You can make snowmen, snowballs, and snow angels. 
    c. Snowstorms, snowplows, and snowflakes
    d. Snowdrops, snowshoes, and snow globes
 
-4. Snow can make the roads **\_\_** and cause accidents.
+4. Snow can make the roads _______ and cause accidents.
 
-5. You should always wear warm clothes and **\_\_** when you go outside in the snow.
+5. You should always wear warm clothes and _______ when you go outside in the snow.
 
 6. Why are no two snow crystals exactly the same?
 

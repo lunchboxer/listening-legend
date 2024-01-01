@@ -29,9 +29,9 @@ Tornadoes form when warm, humid air meets cold, dry air. This makes the air spin
    c. Tornado Zone
    d. Tornado Land
 
-4. Tornadoes form when warm, **\_\_** air meets cold, dry air.
+4. Tornadoes form when warm, _______ air meets cold, dry air.
 
-5. When the funnel cloud touches the ground, it becomes a **\_\_**.
+5. When the funnel cloud touches the ground, it becomes a _______.
 
 6. What season do tornadoes usually happen in?
 

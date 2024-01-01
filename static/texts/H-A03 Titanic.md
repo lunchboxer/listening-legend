@@ -27,9 +27,9 @@ However, on its maiden voyage from England to New York, the Titanic hit an icebe
    c. An iceberg
    d. A submarine
 
-4. Fill in the blank: The Titanic was on its way from ****\_**** to New York.
+4. Fill in the blank: The Titanic was on its way from _______ to New York.
 
-5. Fill in the blank: The Titanic had a ****\_**** pool, a gym, a library, and a grand staircase.
+5. Fill in the blank: The Titanic had a _______ pool, a gym, a library, and a grand staircase.
 
 6. How many people died in the Titanic disaster?
 

@@ -29,9 +29,9 @@ Another famous karst landscape is the Reed Flute Cave near Guilin City. The cave
    c. Limestone
    d. Sandstone
 
-4. The Reed Flute Cave has many interesting ****\_**** and ****\_****.
+4. The Reed Flute Cave has many interesting _______ and _______.
 
-5. The cave was named after reeds used to make ****\_****.
+5. The cave was named after reeds used to make _______.
 
 6. What rock type were the karst landscapes formed in?
 

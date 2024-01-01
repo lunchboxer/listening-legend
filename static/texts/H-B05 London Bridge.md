@@ -33,9 +33,9 @@ The famous nursery rhyme "London Bridge is Falling Down" tells how the bridge co
    c. 1,000 years ago
    d. 2,000 years ago
 
-4. The original bridge was made of **\_\_\_**.
+4. The original bridge was made of _______.
 
-5. Over time, the bridge was **\_\_\_** by fire and storms.
+5. Over time, the bridge was _______ by fire and storms.
 
 6. Why were houses and shops built on the old stone bridge?
 

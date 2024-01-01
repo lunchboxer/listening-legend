@@ -15,23 +15,23 @@ Samurai wore elaborate armor and masks into battle. Their weapons included sword
    c. Bushido
    d. Katana
 
-2. Samurai first appeared during the **\_\_** century AD.
+2. Samurai first appeared during the _______ century AD.
 
    a. 500s
    b. 700s
    c. 900s
    d. 1100s
 
-3. Samurai served powerful local ******\_\_\_******.
+3. Samurai served powerful local _______.
 
    a. merchants
    b. priests
    c. farmers
    d. lords
 
-4. Samurai were trained in the katana ****\_\_**** and other weapons.
+4. Samurai were trained in the katana _______ and other weapons.
 
-5. Though ****\_\_**** in battle, samurai also studied arts and music.
+5. Though _______ in battle, samurai also studied arts and music.
 
 6. Why did the era of the samurai finally end in the 1800s?
    Here is the answer key:

@@ -27,9 +27,9 @@ Penguins are seabirds. That means they spend most of their time in the ocean. Th
    c. Sky birds
    d. Fish
 
-4. Penguins have special feathers called ******\_\_****** that keep them warm.
+4. Penguins have special feathers called _______ that keep them warm.
 
-5. Penguins use their ******\_\_****** to swim very fast underwater.
+5. Penguins use their _______ to swim very fast underwater.
 
 6. What do penguins eat?
 

@@ -27,9 +27,9 @@ People have lived in the Sahara for thousands of years. Long ago, the climate wa
    c. Camels
    d. Lions
 
-4. The Sahara Desert gets **\_\_\_** rain each year.
+4. The Sahara Desert gets _______ rain each year.
 
-5. Long ago, the Sahara had a **\_\_\_** climate with more rain.
+5. Long ago, the Sahara had a _______ climate with more rain.
 
 6. In a sentence, explain how people have lived in the Sahara for thousands of years.
 

@@ -22,16 +22,16 @@ It took over 10 years of dedicated effort across many countries. Finally, in 198
    c. Through uncooked meat
    d. Through mosquito bites
 
-3. The World Health Organization launched a plan to ******\_\_****** smallpox.
+3. The World Health Organization launched a plan to _______ smallpox.
 
    a. control
    b. treat
    c. eradicate
    d. study
 
-4. Teams traveled widely to ********\_\_\_******** people at risk.
+4. Teams traveled widely to _______ people at risk.
 
-5. In 1980, the WHO declared smallpox **********\_\_\_**********.
+5. In 1980, the WHO declared smallpox _______.
 
 6. Why was the eradication of smallpox such an important achievement?
    </document_content>

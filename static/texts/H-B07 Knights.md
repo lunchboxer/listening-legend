@@ -31,9 +31,9 @@ Stories of brave knights fighting dragons and monsters were very popular. Knight
    c. Crowning
    d. Ordaining
 
-4. Knights took an oath to **\_\_\_\_** others.
+4. Knights took an oath to _______ others.
 
-5. Knights who proved themselves earned **\_\_\_\_** and ****\_****.
+5. Knights who proved themselves earned _______ and _______.
 
 6. How do we still see the influence of knights today?
 

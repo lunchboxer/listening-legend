@@ -27,9 +27,9 @@ There are lots of sea animals that live at the Great Barrier Reef. Some animals 
    c. To study the coral
    d. To look at the different colors
 
-4. The Great Barrier Reef has many **\_\_\_** **\_\_\_**.
+4. The Great Barrier Reef has many _______ _______.
 
-5. Scuba divers like to **\_\_\_** with the **\_\_\_** and **\_\_\_**.
+5. Scuba divers like to _______ with the _______ and _______.
 
 6. In your own words, explain why the Great Barrier Reef needs protection.
 

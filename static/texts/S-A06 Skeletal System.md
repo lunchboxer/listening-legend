@@ -29,9 +29,9 @@ Bones also make blood cells, store minerals and allow you to move. Without a ske
    c. Silver
    d. Wood
 
-4. Bones connect at ****\_\_\_****, which allow movement.
+4. Bones connect at _______, which allow movement.
 
-5. Major joints are found at the ****\_\_****, ****\_\_****, ****\_\_****, and ****\_\_****.
+5. Major joints are found at the _______, _______, _______, and _______.
 
 6. Name one function of the skeletal system.
 

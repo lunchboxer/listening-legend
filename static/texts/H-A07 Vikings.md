@@ -22,16 +22,16 @@ However, the Vikings were more than just warriors and raiders. They were also tr
    c. Their armor and weapons
    d. Their fighting spirit
 
-3. The Vikings mainly raided to find ********\_\_********.
+3. The Vikings mainly raided to find _______.
 
    a. farmland
    b. riches
    c. adventure
    d. new crew members
 
-4. Vikings ships also ******\_\_****** goods across Europe for trade.
+4. Vikings ships also _______ goods across Europe for trade.
 
-5. In addition to raiding, Vikings were ********\_\_\_********, ********\_********, and ********\_\_********.
+5. In addition to raiding, Vikings were _______, _______, and _______.
 
 6. Why were the Vikings able to successfully raid distant coastal towns?
 

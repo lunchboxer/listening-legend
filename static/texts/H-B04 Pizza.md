@@ -27,9 +27,9 @@ In the early 1900s, many Italians moved to the United States. They brought recip
    c. 1905
    d. 1925
 
-4. Pizza became popular in America after ****\_****.
+4. Pizza became popular in America after _______.
 
-5. Many Italian **\_\_\_** brought pizza recipes to America.
+5. Many Italian _______ brought pizza recipes to America.
 
 6. How did pizza become popular across the United States? Name two reasons.
 

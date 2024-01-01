@@ -27,9 +27,9 @@ In rural areas, houses are far apart on larger pieces of land. Many people have 
    c. Nature
    d. Public transportation
 
-4. In cities, houses and apartments are **\_\_\_** **\_\_\_**.
+4. In cities, houses and apartments are _______ _______.
 
-5. In rural areas, life tends to be **\_\_\_** **\_\_\_**.
+5. In rural areas, life tends to be _______ _______.
 
 6. In a sentence, explain one difference between urban and rural lifestyles.
 

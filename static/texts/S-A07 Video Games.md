@@ -29,9 +29,9 @@ Games require eye-hand coordination and quick decisions. They can improve visual
    c. Adventure
    d. Action
 
-4. Video games can improve **\_\_\_\_** and **\_\_\_\_** time.
+4. Video games can improve _______ and _______ time.
 
-5. **\_\_** is key to balance gaming and other activities.
+5. _______ is key to balance gaming and other activities.
 
 6. Name one video game genre.
 

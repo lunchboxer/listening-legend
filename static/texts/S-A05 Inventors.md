@@ -27,9 +27,9 @@ Inventors write and draw their ideas. They build models and prototypes to test d
    c. By building models and prototypes
    d. By reading books
 
-4. Inventors are known for being ****\_\_****, ****\_\_\_****, and ****\_\_\_****.
+4. Inventors are known for being _______, _______, and _______.
 
-5. Once an invention is ready, inventors can get a ****\_****.
+5. Once an invention is ready, inventors can get a _______.
 
 6. Name a famous inventor.
 

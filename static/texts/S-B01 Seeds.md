@@ -29,9 +29,9 @@ Plants make seeds to make new plants. Seeds have a seed coat, plant food and a b
    c. Inside  
    d. In the roots
 
-4. Seeds need ****\_\_\_\_****, ****\_\_****, ****\_\_****, and ****\_\_\_**** to be able to sprout.
+4. Seeds need _______, _______, _______, and _______ to be able to sprout.
 
-5. When a seed sprouts, the baby plant uses the ****\_\_\_**** inside to grow.
+5. When a seed sprouts, the baby plant uses the _______ inside to grow.
 
 6. Name one example of a large seed mentioned in the passage.
 
