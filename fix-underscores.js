@@ -6,7 +6,6 @@ const directory = './static/texts'
 
 // Function to replace text in a file
 function replaceInFile(filePath) {
-  console.log(filePath)
   const data = fs.readFileSync(filePath, 'utf8')
   const result = data.replaceAll(/\*+(\\_)+\*+/gm, '_______')
   fs.writeFileSync(filePath, result, 'utf8')
