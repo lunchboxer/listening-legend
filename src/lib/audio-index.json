@@ -1,0 +1,416 @@
+{
+  "D": {
+    "A": [
+      {
+        "file": "D-A01 Camping is Fun - Dave.mp3",
+        "index": "01",
+        "voice": "Dave"
+      },
+      {
+        "file": "D-A01 Camping is Fun - Rachel.mp3",
+        "index": "01",
+        "voice": "Rachel"
+      },
+      {
+        "file": "D-A02 Brushing Teeth - Pi3.mp3",
+        "index": "02",
+        "voice": "Pi3"
+      },
+      {
+        "file": "D-A03 Beach Trip - Pi4.mp3",
+        "index": "03",
+        "voice": "Pi4"
+      },
+      {
+        "file": "D-A04 PBJ - Antoni.mp3",
+        "index": "04",
+        "voice": "Antoni"
+      },
+      {
+        "file": "D-A05 Public Transport - Pi4.mp3",
+        "index": "05",
+        "voice": "Pi4"
+      },
+      {
+        "file": "D-A06 Firefighters - Pi5.mp3",
+        "index": "06",
+        "voice": "Pi5"
+      },
+      {
+        "file": "D-A07 Service Dogs - Pi1.mp3",
+        "index": "07",
+        "voice": "Pi1"
+      },
+      {
+        "file": "D-A08 Hot Air Balloons - Pi2.mp3",
+        "index": "08",
+        "voice": "Pi2"
+      },
+      {
+        "file": "D-A09 Building a Treehouse - Pi4.mp3",
+        "index": "09",
+        "voice": "Pi4"
+      }
+    ],
+    "B": [
+      {
+        "file": "D-B01 Getting Ready for School - Dave.mp3",
+        "index": "01",
+        "voice": "Dave"
+      },
+      {
+        "file": "D-B01 Getting Ready for School - Sally.mp3",
+        "index": "01",
+        "voice": "Sally"
+      },
+      {
+        "file": "D-B02 Growing a Garden - Pi5.mp3",
+        "index": "02",
+        "voice": "Pi5"
+      },
+      {
+        "file": "D-B03 Making a Pizza - Pi1.mp3",
+        "index": "03",
+        "voice": "Pi1"
+      },
+      {
+        "file": "D-B04 Sailing a Boat - Pi2.mp3",
+        "index": "04",
+        "voice": "Pi2"
+      },
+      {
+        "file": "D-B05 Hiking a Mountain - Pi4.mp3",
+        "index": "05",
+        "voice": "Pi4"
+      },
+      {
+        "file": "D-B06 Zoo - Pi5.mp3",
+        "index": "06",
+        "voice": "Pi5"
+      },
+      {
+        "file": "D-B07 Riding  a Bike - Pi6.mp3",
+        "index": "07",
+        "voice": "Pi6"
+      },
+      {
+        "file": "D-B08 Playing Soccer - Pi1.mp3",
+        "index": "08",
+        "voice": "Pi1"
+      },
+      {
+        "file": "D-B09 Public Pool - Pi2.mp3",
+        "index": "09",
+        "voice": "Pi2"
+      }
+    ]
+  },
+  "H": {
+    "A": [
+      {
+        "file": "H-A01 Chocolate - Antoni.mp3",
+        "index": "01",
+        "voice": "Antoni"
+      },
+      {
+        "file": "H-A01 Chocolate - Sally.mp3",
+        "index": "01",
+        "voice": "Sally"
+      },
+      {
+        "file": "H-A02 Rosa Parks - Charlotte.mp3",
+        "index": "02",
+        "voice": "Charlotte"
+      },
+      {
+        "file": "H-A03 Titanic - Dorothy.mp3",
+        "index": "03",
+        "voice": "Dorothy"
+      },
+      {
+        "file": "H-A04 Wright Brothers - Sally.mp3",
+        "index": "04",
+        "voice": "Sally"
+      },
+      {
+        "file": "H-A05 Pompeii - Bill.mp3",
+        "index": "05",
+        "voice": "Bill"
+      },
+      {
+        "file": "H-A06 Samurai - Pi4.mp3",
+        "index": "06",
+        "voice": "Pi4"
+      },
+      {
+        "file": "H-A07 Vikings - Pi6.mp3",
+        "index": "07",
+        "voice": "Pi6"
+      },
+      {
+        "file": "H-A08 Smallpox - Pi1.mp3",
+        "index": "08",
+        "voice": "Pi1"
+      },
+      {
+        "file": "H-A09 Lewis Clark - Pi2.mp3",
+        "index": "09",
+        "voice": "Pi2"
+      }
+    ],
+    "B": [
+      {
+        "file": "H-B01 Kites - Dave.mp3",
+        "index": "01",
+        "voice": "Dave"
+      },
+      {
+        "file": "H-B01 Kites - Sarah 0.9.mp3",
+        "index": "01",
+        "voice": "Sarah 0.9"
+      },
+      {
+        "file": "H-B02 Ancient Egypt - Pi4.mp3",
+        "index": "02",
+        "voice": "Pi4"
+      },
+      {
+        "file": "H-B03 Baseball - Pi1.mp3",
+        "index": "03",
+        "voice": "Pi1"
+      },
+      {
+        "file": "H-B04 Pizza - Pi1.mp3",
+        "index": "04",
+        "voice": "Pi1"
+      },
+      {
+        "file": "H-B05 London Bridge - Pi2.mp3",
+        "index": "05",
+        "voice": "Pi2"
+      },
+      {
+        "file": "H-B06 Greek Mythology - Pi4.mp3",
+        "index": "06",
+        "voice": "Pi4"
+      },
+      {
+        "file": "H-B07 Knights - Pi3.mp3",
+        "index": "07",
+        "voice": "Pi3"
+      },
+      {
+        "file": "H-B08 Wild West - Pi5.mp3",
+        "index": "08",
+        "voice": "Pi5"
+      },
+      {
+        "file": "H-B09 Silk Road - Pi2.mp3",
+        "index": "09",
+        "voice": "Pi2"
+      }
+    ]
+  },
+  "G": {
+    "A": [
+      {
+        "file": "G-A01 Grand Canyon - Emily.mp3",
+        "index": "01",
+        "voice": "Emily"
+      },
+      {
+        "file": "G-A02 Venice - Dorothy.mp3",
+        "index": "02",
+        "voice": "Dorothy"
+      },
+      {
+        "file": "G-A03 Great Wall - Grace.mp3",
+        "index": "03",
+        "voice": "Grace"
+      },
+      {
+        "file": "G-A04 Sydney Opera House - Rachel.mp3",
+        "index": "04",
+        "voice": "Rachel"
+      },
+      {
+        "file": "G-A05 Sahara - Pi2.mp3",
+        "index": "05",
+        "voice": "Pi2"
+      },
+      {
+        "file": "G-A06 Traditional Dress - Pi4.mp3",
+        "index": "06",
+        "voice": "Pi4"
+      },
+      {
+        "file": "G-A07 Festivals - Pi4.mp3",
+        "index": "07",
+        "voice": "Pi4"
+      },
+      {
+        "file": "G-A08 Urban Rural - Pi5.mp3",
+        "index": "08",
+        "voice": "Pi5"
+      },
+      {
+        "file": "G-A09 Karst - Pi4.mp3",
+        "index": "09",
+        "voice": "Pi4"
+      }
+    ],
+    "B": [
+      {
+        "file": "G-B01 Languages - Pi2.mp3",
+        "index": "01",
+        "voice": "Pi2"
+      },
+      {
+        "file": "G-B02 Ghana - Pi6.mp3",
+        "index": "02",
+        "voice": "Pi6"
+      },
+      {
+        "file": "G-B03 Breakfast - Pi4.mp3",
+        "index": "03",
+        "voice": "Pi4"
+      },
+      {
+        "file": "G-B04 Native Americans - Pi3.mp3",
+        "index": "04",
+        "voice": "Pi3"
+      },
+      {
+        "file": "G-B05 Everest - Pi2.mp3",
+        "index": "05",
+        "voice": "Pi2"
+      },
+      {
+        "file": "G-B06 Pow Wows - Pi2.mp3",
+        "index": "06",
+        "voice": "Pi2"
+      },
+      {
+        "file": "G-B07 Amazon - Pi1.mp3",
+        "index": "07",
+        "voice": "Pi1"
+      },
+      {
+        "file": "G-B08 Great Barrier Reef - Pi3.mp3",
+        "index": "08",
+        "voice": "Pi3"
+      },
+      {
+        "file": "G-B09 Chinese Food - Pi1.mp3",
+        "index": "09",
+        "voice": "Pi1"
+      }
+    ]
+  },
+  "S": {
+    "A": [
+      {
+        "file": "S-A01 Bubbles - Arnold.mp3",
+        "index": "01",
+        "voice": "Arnold"
+      },
+      {
+        "file": "S-A01 Bubbles - Dorothy.mp3",
+        "index": "01",
+        "voice": "Dorothy"
+      },
+      {
+        "file": "S-A02 Snow - Pi5.mp3",
+        "index": "02",
+        "voice": "Pi5"
+      },
+      {
+        "file": "S-A03 Fossils - Pi3.mp3",
+        "index": "03",
+        "voice": "Pi3"
+      },
+      {
+        "file": "S-A04 Venus - Pi1.mp3",
+        "index": "04",
+        "voice": "Pi1"
+      },
+      {
+        "file": "S-A05 Inventors - Pi1.mp3",
+        "index": "05",
+        "voice": "Pi1"
+      },
+      {
+        "file": "S-A06 Skeletal System - Pi2.mp3",
+        "index": "06",
+        "voice": "Pi2"
+      },
+      {
+        "file": "S-A07 Video Games - Pi3.mp3",
+        "index": "07",
+        "voice": "Pi3"
+      },
+      {
+        "file": "S-A08 Renewable Energy - Pi1.mp3",
+        "index": "08",
+        "voice": "Pi1"
+      },
+      {
+        "file": "S-A09 Antibiotics - Pi2.mp3",
+        "index": "09",
+        "voice": "Pi2"
+      }
+    ],
+    "B": [
+      {
+        "file": "S-B01 Seeds - Antoni.mp3",
+        "index": "01",
+        "voice": "Antoni"
+      },
+      {
+        "file": "S-B01 Seeds - Sally.mp3",
+        "index": "01",
+        "voice": "Sally"
+      },
+      {
+        "file": "S-B02 Penguins - Sarah 0.9.mp3",
+        "index": "02",
+        "voice": "Sarah 0.9"
+      },
+      {
+        "file": "S-B03 Water Cycle - Evelyn 0.9.mp3",
+        "index": "03",
+        "voice": "Evelyn 0.9"
+      },
+      {
+        "file": "S-B04 Tornadoes - Pi2.mp3",
+        "index": "04",
+        "voice": "Pi2"
+      },
+      {
+        "file": "S-B05 Robots - Pi4.mp3",
+        "index": "05",
+        "voice": "Pi4"
+      },
+      {
+        "file": "S-B06 Mars - Pi6.mp3",
+        "index": "06",
+        "voice": "Pi6"
+      },
+      {
+        "file": "S-B07 Rollercoasters - Pi5.mp3",
+        "index": "07",
+        "voice": "Pi5"
+      },
+      {
+        "file": "S-B08 Nuclear Energy - Pi1.mp3",
+        "index": "08",
+        "voice": "Pi1"
+      },
+      {
+        "file": "S-B09 Satellites - Pi4.mp3",
+        "index": "09",
+        "voice": "Pi4"
+      }
+    ]
+  }
+}

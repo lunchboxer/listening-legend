@@ -180,7 +180,7 @@ input[type='reset'].button-clear,
 input[type='submit'].button-clear {
   background-color: transparent;
   border-color: transparent;
-  color: var(--background);
+  color: var(--primary-color);
 }
 
 .button.button-clear:focus,
@@ -195,7 +195,7 @@ input[type='submit'].button-clear:focus,
 input[type='submit'].button-clear:hover {
   background-color: transparent;
   border-color: transparent;
-  color: var(--background);
+  color: var(--base-color);
 }
 
 .button.button-clear[disabled]:focus,
@@ -424,6 +424,9 @@ option {
 }
 .float-right {
   float: right;
+}
+button svg {
+  margin-right: 1rem;
 }
 @media print {
   body {

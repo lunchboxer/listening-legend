@@ -1,8 +1,9 @@
 <script>
   import { marked } from 'marked'
+  import AudioPlayer from '$lib/AudioPlayer.svelte'
 
   export let data
-  const { theme, level, index, textInfo, text } = data
+  const { theme, level, index, textInfo, audioInfo, text } = data
   let showText = false
   let showQuestions = true
   let showAnswers = false
@@ -36,6 +37,15 @@
 
 <h1>{textInfo.title}</h1>
 <p>{themeName[theme]} level {level} text {index}</p>
+
+{#if audioInfo && audioInfo.length > 0}
+  <div class="audio">
+    <h2>Audio</h2>
+    {#each audioInfo as audio}
+      <AudioPlayer audioInfo={audio} />
+    {/each}
+  </div>
+{/if}
 
 <div class="button-group">
   <button class:button-outline={!showText} on:click={() => (showText = !showText)}>
@@ -84,6 +94,9 @@
 {/if}
 
 <style>
+  .audio {
+    margin: 2rem 0;
+  }
   .button-group {
     padding: 1rem 0;
   }
