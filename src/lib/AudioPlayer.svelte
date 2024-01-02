@@ -2,15 +2,19 @@
   import { onMount } from 'svelte'
   import Fa from 'svelte-fa'
   import { faPlay, faPause } from '@fortawesome/free-solid-svg-icons'
+  import ReadySetListen from '$lib/ReadySetListen.svelte'
   export let audioInfo
   let audioPlayer
+  let introPlayer
   let paused = true
   let duration
   let time = 0
   let progress = 0
+  let showCountdown = false
 
   $: progress = duration ? time / duration : 0
 
+  const intro = '/preamble/ready-set-listen2.mp3'
   const audioExercise = `/audio/${audioInfo.file}`
 
   const pad = (number) => (number < 10 ? '0' + number : number)
@@ -28,13 +32,29 @@
   }
 
   function playAudio() {
-    if (paused) audioPlayer.play()
-    else audioPlayer.pause()
+    if (paused && time === 0) {
+      showCountdown = true
+      introPlayer.play()
+    } else if (paused) {
+      audioPlayer.play()
+    } else {
+      audioPlayer.pause()
+    }
   }
+
+  onMount(() => {
+    introPlayer.addEventListener('ended', () => {
+      audioPlayer.play()
+    })
+  })
 </script>
 
+{#if showCountdown}
+  <ReadySetListen bind:showCountdown />
+{/if}
 <label class="voice" for="audio{audioInfo.voice}">{audioInfo.voice}</label>
 <div class="audio-player">
+  <audio bind:this={introPlayer} src={intro} />
   <audio
     id="audio{audioInfo.voice}"
     bind:this={audioPlayer}
