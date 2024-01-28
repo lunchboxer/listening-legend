@@ -165,9 +165,9 @@
         "voice": "Dave"
       },
       {
-        "file": "H-B01 Kites - Sarah 0.9.mp3",
+        "file": "H-B01 Kites - Sarah.mp3",
         "index": "01",
-        "voice": "Sarah 0.9"
+        "voice": "Sarah"
       },
       {
         "file": "H-B02 Ancient Egypt - Pi4.mp3",
@@ -372,14 +372,14 @@
         "voice": "Sally"
       },
       {
-        "file": "S-B02 Penguins - Sarah 0.9.mp3",
+        "file": "S-B02 Penguins - Sarah.mp3",
         "index": "02",
-        "voice": "Sarah 0.9"
+        "voice": "Sarah"
       },
       {
-        "file": "S-B03 Water Cycle - Evelyn 0.9.mp3",
+        "file": "S-B03 Water Cycle - Evelyn.mp3",
         "index": "03",
-        "voice": "Evelyn 0.9"
+        "voice": "Evelyn"
       },
       {
         "file": "S-B04 Tornadoes - Pi2.mp3",

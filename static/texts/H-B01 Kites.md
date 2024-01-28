@@ -7,22 +7,26 @@ The Chinese used kites for more than fun. Kites helped them test the wind for sa
 ## Questions
 
 1. How were early kites in China made?
+
    a) With paper and glue
    b) By stretching fabric around frames
    c) By weaving reeds together
    d) With silk and bamboo frames
 
 2. What shapes were some early Chinese kites?
+
    a) Triangles
    b) Circles
    c) Birds and dragons
    d) Diamonds
 
 3. When did kites first become popular?
+
    a) Thousands of years ago
    b) A couple hundred years ago
    c) In the past 25 years
    d) Last year
+
 4. The Chinese used kites to test the _______ for sailing.
 
 5. Over time, new kite _______ were created.

@@ -20,7 +20,6 @@
       }
     })
   })
-  $: console.log($countdown)
 </script>
 
 {#if $countdown < 4}

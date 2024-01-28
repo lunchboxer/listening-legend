@@ -31,7 +31,7 @@ Snow can be fun to play with. You can make snowmen, snowballs, and snow angels. 
 
 5. You should always wear warm clothes and _______ when you go outside in the snow.
 
-6. Why are no two snow crystals exactly the same?
+6. Name two shapes that snowflakes can look like.
 
 ## Answer Key
 
@@ -40,4 +40,4 @@ Snow can be fun to play with. You can make snowmen, snowballs, and snow angels. 
 3. A
 4. slippery
 5. gloves
-6. Because they form in different conditions and change as they fall.
+6. Any two of needles, stars and plates
