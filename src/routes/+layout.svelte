@@ -3,6 +3,10 @@
   import Header from '$lib/Header.svelte'
 </script>
 
+<svelte:head>
+  <title>Listening Legend</title>
+</svelte:head>
+
 <main>
   <Header />
   <slot />

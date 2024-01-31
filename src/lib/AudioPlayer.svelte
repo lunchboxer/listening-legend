@@ -2,7 +2,7 @@
   import { onMount } from 'svelte'
   import Fa from 'svelte-fa'
   import { faPlay, faPause } from '@fortawesome/free-solid-svg-icons'
-  import ReadySetListen from '$lib/ReadySetListen.svelte'
+  // import ReadySetListen from '$lib/ReadySetListen.svelte'
   export let audioInfo
   let audioPlayer
   let introPlayer
@@ -50,7 +50,7 @@
 </script>
 
 {#if showCountdown}
-  <ReadySetListen bind:showCountdown />
+  <!-- <ReadySetListen bind:showCountdown /> -->
 {/if}
 <label class="voice" for="audio{audioInfo.voice}">{audioInfo.voice}</label>
 <div class="audio-player">
