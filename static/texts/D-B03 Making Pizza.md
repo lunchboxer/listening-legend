@@ -2,7 +2,7 @@
 
 Making a pizza with my family is so much fun! First, we roll out the dough into a big circle. Then we spread tomato sauce over the dough with a spoon. Next, we sprinkle on salty cheese that melts when it bakes. I put on my favorite toppings like pepperoni, mushrooms, and olives. My dad helps me make a smiley face out of slices of bell pepper. We bake the pizza until the cheese gets bubbly and the crust turns golden brown. When it’s done, we slice up the pizza and enjoy eating our yummy creation! We end our pizza night by playing board games together as a family.
 
-## Questions:
+## Questions
 
 1. What shape is the dough rolled into first?
 

@@ -1,4 +1,4 @@
-## Native Americans
+# Native Americans
 
 Do you know who lived in America before the Europeans came? They were the Native Americans, the first people of this land. There were many different Native American tribes, and each one had its own culture, traditions, and language. Some tribes lived in big cities and kingdoms, and some tribes lived in small villages and moved from place to place. They used the resources of their environment to make their homes, clothes, food, and tools.
 
@@ -20,11 +20,11 @@ Some of the Native American tribes that you may have heard of are the Cherokee, 
    c. The machines from their factories
    d. The magic from their spells
 
-3. What is an example of a Native American tribe that lived in the Arctic?
+3. Which Native American tribe was not named in the article?
 
    a. Cherokee
    b. Navajo
-   c. Sioux
+   c. Dakota
    d. Inuit
 
 4. Fill in the blank: The Native Americans had different _______, stories, and ceremonies.

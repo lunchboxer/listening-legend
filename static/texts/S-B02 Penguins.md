@@ -4,7 +4,7 @@ Penguins are fun birds that live in very cold places. Most penguins live in Anta
 
 Penguins are seabirds. That means they spend most of their time in the ocean. They use their wings that look like flippers to swim very fast underwater. Penguins hunt for fish and other seafood to eat.
 
-# Questions
+## Questions
 
 1. Where do most penguins live?
 
@@ -33,7 +33,7 @@ Penguins are seabirds. That means they spend most of their time in the ocean. Th
 
 6. What do penguins eat?
 
-# Answer Key
+## Answer Key
 
 1. B
 2. B

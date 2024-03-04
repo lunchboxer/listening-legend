@@ -34,14 +34,8 @@ It took over 10 years of dedicated effort across many countries. Finally, in 198
 5. In 1980, the WHO declared smallpox _______.
 
 6. Why was the eradication of smallpox such an important achievement?
-   </document_content>
-   </document>
 
-<document index="2">
-<source>Listening H B05 Eradicating Smallpox - Answer Key.md</source>  
-<document_content>
-
-# Answer Key
+## Answer Key
 
 1. b
 2. b

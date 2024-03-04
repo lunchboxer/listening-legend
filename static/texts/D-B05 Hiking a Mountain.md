@@ -2,7 +2,7 @@
 
 Hiking up a mountain is tiring but rewarding! First, I put on my hiking boots to grip the steep trail. I pack snacks, water, and my camera. The hike starts easy but soon gets very steep. I have to watch each step carefully. As I climb up the mountain, the air gets cooler. I see amazing views of forests, rivers, and canyons down below. At the top, I feel proud looking out at the scenic landscape. I can even see clouds below me! I eat a snack and rest before hiking back down the rocky path. At the bottom, I take off my boots and look at the photos of my hike. I can't wait to climb another mountain next time!
 
-## Questions:
+## Questions
 
 1. What does the child wear for gripping the trail?
 

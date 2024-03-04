@@ -2,7 +2,7 @@
 
 I love sailing my little boat across the lake on a sunny day! First I put on my life jacket to stay safe. Then I carefully step into my boat and grab the oars. I row slowly away from the dock. When I get far enough, I put the oars down and lift the sail up tall. The wind catches the sail and pushes me along. I hold the rope tight and steer the boat where I want to go. I look at the trees and ducks as I glide by. If the wind gets too strong, I lower the sail a bit. When I'm done sailing, I row back to the dock and tie my boat up. Sailing is so fun and peaceful!
 
-## Questions:
+## Questions
 
 1. What does the child put on first for safety?
 
