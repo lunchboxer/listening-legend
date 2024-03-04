@@ -41,7 +41,7 @@
 <h1>{textInfo.title}</h1>
 <p>{themeName[theme]} level {level} text {index}</p>
 
-{#if audioInfo && audioInfo.length > 0}
+{#if audioInfo && audioInfo?.length > 0}
   <div class="audio">
     <h2>Audio</h2>
     {#each audioInfo as audio}
@@ -59,17 +59,17 @@
 {#if showText}
   <div class="text" transition:slide={{ duration: 200, easing: quintInOut }}>
     <h2>Text</h2>
-    {#each textBody.filter((token) => token.type !== 'space') as token}
+    {#each textBody?.filter((token) => token.type !== 'space') as token}
       <p>{token.text}</p>
     {/each}
   </div>
 {/if}
 
-{#if showQuestions}
+{#if showQuestions && questions?.items?.length > 0}
   <div class="questions" transition:slide={{ duration: 200, easing: quintInOut }}>
     <h2>Questions</h2>
     <ol>
-      {#each questions.items as question}
+      {#each questions?.items as question}
         <li class="question">
           {question.tokens[0].text}
           {#if question.tokens?.filter((token) => token.type !== 'space').length > 1}
